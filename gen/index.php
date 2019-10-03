@@ -44,10 +44,11 @@
                     <div class="form-group">
                         <label>Protocol</label>
                         <select class="form-control" name="protocol">
-                            <option value="tel:">tel:</option>
-                            <option value="mailto:">mailto:</option>
-                            <option value="http://">http://</option>
-                            <option value="https://">https://</option>
+                            <option value="tel:">Telefone (Fixo ou sem WhatsApp)</option>
+                            <option value="mailto:">E-mail</option>
+                            <option value="http://">Site (Sem SSL)</option>
+                            <option value="https://">Site (Com SSL)</option>
+                            <option value="whatsapp:">WhatsApp</option>
                         </select>
                     </div>
 
