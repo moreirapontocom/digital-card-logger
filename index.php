@@ -28,4 +28,4 @@ if (!empty($info)) :
 
 endif;
 
-header('Location: https://lucasmoreira.com.br/');
+die('Nenhum redirecionamento encontrado');
