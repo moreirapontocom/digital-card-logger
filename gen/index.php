@@ -53,7 +53,7 @@
 
                     <div class="form-group mt-2 mb-4">
                         <label>Target</label>
-                        <input type="text" class="form-control" name="target" placeholder="ex: www.lucasmoreira.com.br || 31983645656">
+                        <input type="text" class="form-control" autocomplete="off" name="target" placeholder="ex: www.lucasmoreira.com.br || 31983645656">
                     </div>
 
                     <button type="submit" class="btn btn-primary btn-block">Generate</button>
